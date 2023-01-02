@@ -4,7 +4,7 @@
   "description": "This Project explains all Node JS examples",
   "main": "app.js",
   "publishConfig": {
-    "registry": "http://34.215.30.243:8080/repository/ebay-npm-repo/"
+    "registry": "http://54.70.66.148:8181/mylandmarktech/repository/ebay-nodejs-app/"
   },
   "scripts": {
     "server": "http-server -c-1 -p 9999",
